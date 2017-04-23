@@ -1,5 +1,7 @@
 <?php
 
+// Made By @Omar_Real 
+// Join To My Channel @Set_Web
 ob_start();
 define('API_KEY','توكن');
 function bot($method,$datas=[]){
