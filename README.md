@@ -11,4 +11,7 @@ Math Bot Made By @Omar_Real
 <img src = "https://wwwalasm341.000webhostapp.com/Screenshot_٢٠١٧٠٤٢٣-١١٥٢٤٦.png" width="350" height="500"/>
 <br />
 <img src = "https://wwwalasm341.000webhostapp.com/Screenshot_٢٠١٧٠٤٢٣-١١٥٢٣٥.png" width="350" height="500"/>
-</center>
+
+<FONT COLOR="39D3FC" SIZE="40">
+How to install ? 
+</FONT>
